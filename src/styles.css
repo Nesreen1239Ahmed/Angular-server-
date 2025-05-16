@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+    --main: #FEA116;
+    --second: #F1F8FF;
+    --mydark: #0F172B;
+}
+:host{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+
+
+
+
+}

@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Margherita Pizza Server",
+      "price": 12.99999,
+      "quantity": 1555,
+      "imgSrc": "f1.png"
+    },
+    {
+      "id": "2",
+      "name": "California Sushi Rolls server",
+      "price": 14.5,
+      "quantity": 20,
+      "imgSrc": "f2.png"
+    },
+    {
+      "id": "3",
+      "name": "Gourmet Burger server",
+      "price": 11.75,
+      "quantity": 25,
+      "imgSrc": "f3.png"
+    },
+    {
+      "id": "4685",
+      "name": "pizzzza Server",
+      "price": 2000,
+      "quantity": 100,
+      "imgSrc": "1.png"
+    },
+    {
+      "id": "34ab",
+      "name": "food health",
+      "price": 50,
+      "quantity": 10,
+      "imgSrc": "1.png"
+    }
+  ],
+  "users": []
+}

@@ -1,0 +1,17 @@
+.mydark{
+    background-color: var(--mydark);
+}
+.main{
+    color: var(--main);
+}
+
+a{
+    color:white;
+    
+}
+
+a:hover{
+    color: var(--main);
+}
+
+
